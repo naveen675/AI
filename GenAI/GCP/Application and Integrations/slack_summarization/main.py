@@ -1,5 +1,8 @@
 #Summarises chat conversation or text on slack. 
-# chat summary is built on top of Vertex AI text generation [llm model (text-bison@001)  
+# chat summary is built on top of Vertex AI text generation [llm model (text-bison@001) 
+# Deploy this url endpoint in needed slack workspace. 
+# Token validation at server side is mandatory to avoid hackers.
+# Only request with valid token will be allowed to get the response
 
 
 import functions_framework
