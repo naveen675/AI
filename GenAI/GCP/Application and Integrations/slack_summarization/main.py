@@ -3,6 +3,7 @@
 # Deploy this url endpoint in needed slack workspace. 
 # Token validation at server side is mandatory to avoid hackers.
 # Only request with valid token will be allowed to get the response
+# single shot prompt is used to get the more accurate response.
 
 
 import functions_framework
