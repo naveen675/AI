@@ -9,12 +9,12 @@
     Note:
     A token validation is mandatory to avoid unknown http invokations . Only a request with valid token will be given response 200.
 
-### Language Model
-    Language model has developed with below tokens and parameters
-
-      "max_output_tokens": 256,
-      "temperature": 0.2,
-      "top_p": 0.8,
-      "top_k": 40
-    Prompt
-      Single shot prompt is used to improve the response of output for given input.
+    Language Model
+        Language model has developed with below tokens and parameters
+    
+          "max_output_tokens": 256,
+          "temperature": 0.2,
+          "top_p": 0.8,
+          "top_k": 40
+        Prompt
+          Single shot prompt is used to improve the response of output for given input.
