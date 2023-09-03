@@ -29,16 +29,18 @@
               - An overview of Machine learning algorithms also covered.
    There are few other courses which are useful to learn Vertex AI mentioned below
            
-4. [Generative AI with Google - Bard, PaLM API and Google Cloud](https://www.udemy.com/course/machine-learning-with-google-cloud/)
+4. [Google Cloud Machine Learning - Vertex AI](https://www.udemy.com/course/machine-learning-with-google-cloud/)
 
 
+   
+5. Handson Practice
    
            zero, single, few shot prompts to improve language model response
            usage of parameter efficient Fine tuning methods like LORa, soft prompt
            Model evalutation, validation
            Code and resources for these are available in the same repository under *GenAI/AWS/*
       
-5.  [Slack Chat Summarization APP developed by using Vertex AI](https://github.com/naveen675/slack_chat_summarization)
+7.  [Slack Chat Summarization APP developed by using Vertex AI](https://github.com/naveen675/slack_chat_summarization)
       
            Chat Summarisation APP for slack has devloped by using Vertex AI Language model with cloud function and trigger
            to communicate multiple services. please find the Code, High level design and resources in below Repository
