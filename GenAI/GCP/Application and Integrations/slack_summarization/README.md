@@ -1,7 +1,7 @@
-# Slack Summarisation chat bot
+# Slack Summarisation chat App
 
 
-When we open a long chat conversation between your coleagues about some bugs,server down or any other features, Everytime we have to go through the whole conversation to get an idea of what is discussed. But with this Summarisation bot you can request to summarize the whole conversation with one single request "/summarize".  
+When we open a long chat conversation between your coleagues about some bugs,server down or any other features, Everytime we have to go through the whole conversation to get an idea of what is discussed. But with this Summarisation App you can request to breif the whole conversation with one single request "/summarize".  
 
 This has built on top of Google cloud Vertex AI by using a language model. 
 An https Endpoint has created by deploying this application on cloud fucntion. 
