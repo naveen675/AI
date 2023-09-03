@@ -42,8 +42,8 @@
       
 7.  [Slack Chat Summarization APP developed by using Vertex AI](https://github.com/naveen675/slack_chat_summarization)
       
-           Chat Summarisation APP for slack has devloped by using Vertex AI Language model with cloud function and trigger
-           to communicate multiple services. please find the Code, High level design and resources in below Repository
+           Chat Summarisation APP for slack has devloped by using Vertex AI Language model with cloud function as a trigger
+           to communicate multiple services. please find the Code, High level design and resources in repository by clicking above link.
    
    
           
