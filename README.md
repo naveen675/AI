@@ -8,7 +8,7 @@
             - Google's responsible AI principles
             - Transformers
             - Introductory Lab's on Vertex AI (GCP's Powerful ML and AI platform)
-2. [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
+2. [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/) 
 
                This course can help you to understand the complexity of LLMs with handson by using related python libraries. 
                     Generative AI lifecycle and handson labs on AWS Sagemaker is covered.
@@ -33,9 +33,18 @@
 
 
    
+           zero, single, few shot prompts to improve language model response
+           usage of parameter efficient Fine tuning methods like LORa, soft prompt
+           Model evalutation, validation
+           Code and resources for these are available in the same repository under *GenAI/AWS/*
       
-        
-    
+   5. [Slack Chat Summarization APP developed by using Vertex AI](https://github.com/naveen675/slack_chat_summarization)
+      
+           Chat Summarisation APP for slack has devloped by using Vertex AI Language model with cloud function and trigger
+           to communicate multiple services. please find the Code, High level design and resources in below Repository
+   
+   
+          
     
       
   
