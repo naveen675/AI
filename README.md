@@ -38,7 +38,7 @@
            zero, single, few shot prompts to improve language model response
            usage of parameter efficient Fine tuning methods like LORa, soft prompt
            Model evalutation, validation
-           Code and resources for these are available in the same repository under *GenAI/AWS/*
+           Code and resources for these are available in the same repository under ***GenAI/AWS/***
       
 7.  [Slack Chat Summarization APP developed by using Vertex AI](https://github.com/naveen675/slack_chat_summarization)
       
