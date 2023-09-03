@@ -13,7 +13,7 @@
         Language model has developed with below tokens and parameters
     
           "max_output_tokens": 256,
-          "temperature": 0.2,
+          "temperature": 0.5,
           "top_p": 0.8,
           "top_k": 40
         Prompt
