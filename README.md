@@ -8,7 +8,7 @@
             - Google's responsible AI principles
             - Transformers
             - Introductory Lab's on Vertex AI (GCP's Powerful ML and AI platform)
-    2. Markup : [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
+2. Markup : [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
         (Recommended) This course can help you to understand the complexity of LLMs with handson by using related python libraries. 
         Generative AI lifecycle and handson labs on AWS Sagemaker.
 
