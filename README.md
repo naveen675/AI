@@ -1,6 +1,6 @@
 # List of courses related to GEN AI
 
-    1. Markup : [Introduction to Generative AI](https://partner.cloudskillsboost.google/journeys/119)
+1. Markup : [Introduction to Generative AI](https://partner.cloudskillsboost.google/journeys/119)
         
         1. This gives a high level overview on Generative AI covers below topics
             - Introduction to GenAI
@@ -8,9 +8,10 @@
             - Google's responsible AI principles
             - Transformers
             - Introductory Lab's on Vertex AI (GCP's Powerful ML and AI platform)
-2. Markup : [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
-        (Recommended) This course can help you to understand the complexity of LLMs with handson by using related python libraries. 
-        Generative AI lifecycle and handson labs on AWS Sagemaker.
+2. Markup : [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/))  (Recommended)
+
+       This course can help you to understand the complexity of LLMs with handson by using related python libraries. 
+            Generative AI lifecycle and handson labs on AWS Sagemaker is covered.
 
             - Transformers architecture. how encoding, decoding used
                 applicartions like speech to text, language translation, task completion.
