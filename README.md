@@ -1,4 +1,4 @@
-# List of courses related to GEN AI
+# Generative AI
 
 1. [Introduction to Generative AI by Google Cloud](https://partner.cloudskillsboost.google/journeys/119)
         
