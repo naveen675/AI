@@ -18,3 +18,11 @@
           "top_k": 40
         Prompt
           Single shot prompt is used to improve the response of output for given input.
+#### Technical
+        deployed on google cloud platform
+        Cloud function (GCP serverless Event trigger , used for connecting services, maintains the server script)
+        Vertex AI platform (GCP highly demanding ML platform with Pretrained, AutomL, Custom ML features)
+        Bison Language model
+        Slack APP
+        Cloud logging to generate logs for each run of cloud function
+        
