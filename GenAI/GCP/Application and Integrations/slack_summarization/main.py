@@ -13,7 +13,7 @@ from datetime import datetime
 import google.cloud.logging
 import json
 
-client = google.cloud.logging.Client(project="genia-data-pipe")
+client = google.cloud.logging.Client(project=ProjectId)
 client.setup_logging()
 log_name = "text-summary-cloudfunction-log"
 logger = client.logger(log_name)
@@ -24,7 +24,7 @@ def hello_http(request):
     
     input_text = request.form['text']
     logger.log(f"{input_text} received at : {datetime.now()}")
-    vertexai.init(project="genia-data-pipe", location="us-central1")
+    vertexai.init(project=ProjectID, location=Location)
 
     parameters = {
         
