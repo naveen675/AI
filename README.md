@@ -1,6 +1,6 @@
 # List of courses related to GEN AI
 
-1. [Introduction to Generative AI](https://partner.cloudskillsboost.google/journeys/119)
+1. [Introduction to Generative AI by Google Cloud](https://partner.cloudskillsboost.google/journeys/119)
         
         1. This gives a high level overview on Generative AI covers below topics
             - Introduction to GenAI
@@ -8,7 +8,7 @@
             - Google's responsible AI principles
             - Transformers
             - Introductory Lab's on Vertex AI (GCP's Powerful ML and AI platform)
-2. Markup : [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
+2. [Generative AI with LLMs By DeepLearning.AI](https://www.coursera.org/learn/generative-ai-with-llms/)) 
 
                This course can help you to understand the complexity of LLMs with handson by using related python libraries. 
                     Generative AI lifecycle and handson labs on AWS Sagemaker is covered.
@@ -22,7 +22,18 @@
             - How to train and validate LLM's against pretrained models. In this lab they have taken 
                 Hugging face datasets and FLANT-5 LLM model 
             - Python modules 
-    3. 
+   3. [Generative AI with Google - Bard, PaLM API and Google Cloud](https://www.udemy.com/course/generative-ai-with-google-bard-google-cloud/)
+
+              - This course is more specific towards explaning google cloud services related to AI ML (VERTEX AI),
+                      Including API invocation of pretrained ML and Language models into applications
+              - An overview of Machine learning algorithms also covered.
+   There are few other courses which are useful to learn Vertex AI mentioned below
+           
+   4. [Generative AI with Google - Bard, PaLM API and Google Cloud](https://www.udemy.com/course/machine-learning-with-google-cloud/)
+
+
+   
+      
         
     
     
