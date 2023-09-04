@@ -16,6 +16,7 @@
 
             - Transformers architecture. how encoding, decoding used
                 applicartions like speech to text, language translation, task completion.
+                   use of Temperature, tokens and other parameters
             - Different types of prompts to improve the model response
             - Compute and GPU optimisation techniques
             - Tuning methods
