@@ -47,6 +47,14 @@
            Chat Summarisation APP for slack has devloped by using Vertex AI Language model
             with cloud function as a trigger to communicate multiple services. please find the Code,
             High level design and resources in repository by clicking above link.
+9. [Generative AI And Data Governance With DLP](https://github.com/naveen675/AI/tree/18d7610c741b2315ed7f73155d53d00c217eac15/GenAI/GCP/API/AI_governance)
+
+           With the increase of LLM's and own datasets, the most concerning thing
+           in prospects of business is sensitive data leakage from the llm output,
+           the incredible versatility of LLMs is also what makes it difficult to
+           predict exactly what kinds of unintended or unforeseen outputs they might produce.
+           With Data Loss Prevention (DLP) we can filter the responses of llm's. 
+   
    
    
           
