@@ -1,0 +1,8 @@
+runtime: python39
+entrypoint: gunicorn -b :$PORT app:app
+
+env_variables:
+  SECRET_KEY: "your_secret_key_here"  
+
+automatic_scaling:
+  target_cpu_utilization: 0.65

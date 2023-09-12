@@ -1,0 +1,8 @@
+flask
+google-cloud-aiplatform
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-logging
+google-cloud-dlp
+db-dtypes
+pandas

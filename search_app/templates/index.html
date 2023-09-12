@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search App</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Search App</h1>
+    <form method="POST" > <!-- Updated action attribute -->
+        <input type="text" name="search_query" placeholder="Enter your search query">
+        <button type="submit">Search</button>
+    </form>
+    <h2>Search Results:</h2>
+        <p>{{results}}</p>
+    <!-- <ul>
+        {% for result in results %}
+        <li>{{ result }}</li>
+        {% endfor %}
+    </ul> -->
+
+    <div class="w3-container">
+        <p>Please Ignore, If there is any mistakes in UI.</p>
+      </div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+vertexai
+google-cloud-logging
+google-cloud-aiplatform

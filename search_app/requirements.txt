@@ -1,0 +1,6 @@
+langchain
+openai
+google-search-results
+flask
+google-cloud-aiplatform
+gunicorn
