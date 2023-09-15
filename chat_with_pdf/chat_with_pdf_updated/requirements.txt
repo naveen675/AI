@@ -1,0 +1,7 @@
+langchain
+flask
+google-cloud-aiplatform
+pypdf
+PyPDF2
+streamlit
+faiss-cpu

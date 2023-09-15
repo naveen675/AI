@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "genia-data-pipe",
+  "private_key_id": "9398703f765d8c0c792a68e1d4b040148a0b01e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsylcXdmQIybFj\nntEupXjdcG+TqSZ2oY1L4mCE/MI6xqQPA93Kj9FtfKRLSOOsrriCslpl3bHik9s6\nsWomhScg1MvNY+SzY8W9rM5m3x8R1Hi0B1d044KAqVggjZkYFqp5yckht9E8wIgf\nEoRXZYe4hQbb/q/bDHOYS0ev/YyXGuddeGS06q5gvDCiSkOoe2OCVSW+Hu2wNp11\nQQC0w6G0IQiGYIDLEky9/VstF6LirP1dXZQQVEbK7rbbTyO+Evy+dy38nm47UN5x\nVC6df1mxWITQkdKAwCChdPO7oG59XJ8GMrJEAEQ+XnnMTuE3l0j9+fvCplX3HdAQ\ndZ8aOd/3AgMBAAECggEABDjvluWwPRy8pnwPjY3CndqtB1U3WOfKvaN7C1Tn5CrN\ngIZuKZCJJB1LIIHX+nTMknkMR3f67FgDn/QM7YMMeTtp/Ytm39Fc2C08X/ws1LE1\n/+Q8CWGz4zQAMM91AccwBEjfjuDgjpT/3o6DyGT1Q5eQmtim8Hnl6z9PsafHAzw9\nQoIvTdo6/uq/dQE59pXeZZ01a79AySTsTS6+paWRalTERtA8YqFjoYCcaCXjY0hm\nqLbldUGdWhYajPqUW6r1HVcAD92MM+uDvgjXc0dj+7OA2Ffd2lpr/JMmrc0jRBkx\nqAWYKJZrxezBJi6PkWaZ0V5E5n4co/5d2tg6Msa9MQKBgQDjkdH6xinnnrelZxoN\ntCwnbhBZSSxpdiBeLf8G6mhdCMfdrVnS2D4QATiZI/cFThVzIJSsnm6u9KrftO/w\nrF2UxRqL8dYCldKJoclfXQY1YTrGw5Ej6KcETekubzLYn+fh9VqoHebeh64kXJjw\nBWGJv8+PxssehteSUuGFQinrJwKBgQDCYI8vgF747WDMK35h8XWFiHaBp26iiPCH\n/kdbotbSjW1fBqlLlQh3a3I1ucto4enKzGa6gKvesskNubuecu1O/WtvT6korKbo\nQ71nkdzEOnVprKi7qq08xsaiiet05e85EzOa3THgbFqkaZpT/Vo849YjSkLHNPgE\nzNTA4wWmsQKBgCgJXZHrDzBKwjB9ZR4IFsSRHps2vnOHbsZi/T0wPFAx3Ufo2aa4\nmKKkNFrs8uaiCDALCV0dOofZT76vzI7hJE2qJ7N7RpWJ2lKQfici7Jazlm2ltoFE\nyy18r4uV0LI/38HnMp3lNNrtr/uBtv5zU+eyMUgwR0gFnSOHJVoWe919AoGBAJo+\n0aEaN0NF67hZE1NZrq6mWZQNb4ffLzBbofifweUXgaEUwidOPoe1Zc4of7fc/g+G\nIEcDcF+qdE1GBBJ6lMJH64dLKaszRsetaZHUd+HnmeCfuM4jZJGEE4BL/eKnzCv4\nhszvlnLGyS8K9gKMW51SF02t0kwORnpYqMPf404hAoGBAOH3JJTyvF6/noE2Sj+g\nLTquRb4ngpyr6uZ0r+X/pH42atJwRdMG64Phqs6os5FYm6rEjUt7vRsZ8ow/rCR7\nb1O4TOClMWZcJlPMJP6uC/WnxPZzMsL38QWm5hyUvpVXtuA0LOwHAmOTgvY8mDah\nzD4Y+KXYDUHxIl8eLKkugKui\n-----END PRIVATE KEY-----\n",
+  "client_email": "aiplatform@genia-data-pipe.iam.gserviceaccount.com",
+  "client_id": "114684916643036339733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aiplatform%40genia-data-pipe.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
