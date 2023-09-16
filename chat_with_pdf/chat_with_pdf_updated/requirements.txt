@@ -5,3 +5,7 @@ pypdf
 PyPDF2
 streamlit
 faiss-cpu
+huggingface_hub
+sentence-transformers
+python-dotenv
+streamlit-extras
