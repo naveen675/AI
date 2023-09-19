@@ -1,8 +1,5 @@
 # Chat With Your Documents
 
-![GitHub](https://img.shields.io/github/license/naveen675/AI)
-![GitHub stars](https://img.shields.io/github/stars/naveen675/AI)
-![GitHub forks](https://img.shields.io/github/forks/naveen675/AI)
 
 ## Summary
 
