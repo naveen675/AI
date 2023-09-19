@@ -9,13 +9,12 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.llms import HuggingFaceHub,VertexAI
 import os
 from langchain.chat_models import ChatVertexAI
-import google.auth
+# import google.auth
 # from htmlTemplates import css, bot_template, user_template
 
 
 embedding_model_name = os.environ.get('EMBEDDING_MODEL_NAME')
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="pipeline-399210-5cd1693eb6e1.json"
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+
 def get_pdf_text(pdf_docs):
     text=""
     for pdf in pdf_docs:
@@ -90,7 +89,7 @@ def handle_user_input(user_question):
 
 def main():
     load_dotenv()
-    credentials, project = google.auth.default()
+    # credentials, project = google.auth.default()
     st.set_page_config("Chat with Multiple PDF's")
     #st.write(css, unsafe_allow_html=True)
     st.markdown("Pull left side bar on top to upload documents")
@@ -163,6 +162,7 @@ def main():
         # st.write(f"[![LinkedIn](circle-linkedin-512.webp)]({linkedin_url})", unsafe_allow_html=True)
 
 
+    
 
 if __name__ == "__main__":
     main()
