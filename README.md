@@ -8,7 +8,7 @@
                    understanding techniques to extract information from uploaded PDFs and provide relevant answers to user questions.
    
            Here is High Level Design
-           <img width="904" alt="Chat With Multiple Pdfs HLD" src="https://github.com/naveen675/AI/assets/38736123/2735cca8-eb27-4029-851e-99af8c449a5a">
+   <img width="904" alt="Chat With Multiple Pdfs HLD" src="https://github.com/naveen675/AI/assets/38736123/2735cca8-eb27-4029-851e-99af8c449a5a">
             
 
 1. [Introduction to Generative AI by Google Cloud](https://partner.cloudskillsboost.google/journeys/119)
