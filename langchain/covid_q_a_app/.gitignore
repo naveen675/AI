@@ -1,0 +1,4 @@
+*.json
+config.py
+*.env
+*.pdf

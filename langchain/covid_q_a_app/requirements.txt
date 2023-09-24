@@ -1,0 +1,11 @@
+langchain
+flask
+google-cloud-aiplatform
+pypdf
+PyPDF2
+faiss-cpu
+huggingface_hub
+sentence-transformers
+python-dotenv
+streamlit-extras
+pinecone-client
