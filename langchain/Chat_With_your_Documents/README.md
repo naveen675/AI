@@ -3,7 +3,8 @@
 
 ## Summary
 
-Chat With Your Documents is a Python application that enables users to interact with multiple PDF documents using natural language queries. This application uses advanced text processing and language understanding techniques to extract information from uploaded PDFs and provide relevant answers to user questions.
+Chat With Your Documents is a Python application that enables users to interact with multiple PDF documents using natural language queries. This application uses advanced text processing and language understanding techniques to extract information from uploaded PDFs and provide relevant answers to user questions. 
+Try application [here](https://chat-nek6dgmfpq-uc.a.run.app/)
 
 ## Table of Contents
 
@@ -57,6 +58,10 @@ The application uses embeddings to represent text chunks from the uploaded PDF d
 ## GitHub Repository
 
 The code for this application can be found on GitHub: [GitHub Repository](https://github.com/naveen675/AI/blob/main/langchain/Chat_With_your_Documents)
+
+## High level Design
+
+<img width="904" alt="Chat With Multiple Pdfs HLD" src="https://github.com/naveen675/AI/assets/38736123/27344e38-c6b6-4d28-b319-9b53da3ce3b3">
 
 ## Contact
 
