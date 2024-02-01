@@ -1,0 +1,1 @@
+Chroma DB -> https://github.com/BBC-Esq/ChromaDB-Plugin-for-LM-Studio
