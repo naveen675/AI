@@ -27,8 +27,6 @@ mm_tkinter.py contains  the tkinter specific code. It is not used in the streaml
 
 ## usage
 
-### as a streamlit app:
-Click the URL https://meeting-reporter.streamlit.app/. You will need an OPENAI api key in the paid tier. The free api key will not work because the agents use GPT4.
 
 ### as a basis for deploying your own Streamlit app.
 1. clone the repository.
