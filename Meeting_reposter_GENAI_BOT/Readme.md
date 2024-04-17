@@ -14,7 +14,7 @@ I started with meetings because there are many more public meetings than there a
 
 [langgraph](https://github.com/langchain-ai/langgraph)is a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain. It is low-code but not no-code.
 
-The depository is set up so that an application can be uploaded to the Streamlit cloud. That has been done and the application is [here](https://meeting-reporter.streamlit.app/). The .gitignore and requirements.txt are specific to streamlit cloud.
+
 
 mm_agent.py in this repository contains the main logic and all of the langchain speciifc code for the application. If you run it as a main program in your own Python environment, it will use tkinter rather than streamlit for UI.
 
