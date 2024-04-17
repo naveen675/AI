@@ -1,0 +1,10 @@
+workflow = StateGraph(AgentState)
+workflow.add_node("agent",agent)
+workflow.add_node("action",action)
+workflow.add_edge("agent","action")
+workflow.add_edge("action",END)
+
+workflow.set_entry_point("agent")
+memory = RedisCheckpoint(at=CheckpointAt.END_OF_STEP)
+app = workflow.compile(interrupt_before=["action"], checkpointer=memory)
+app.invoke(input) or app.stream(input)
